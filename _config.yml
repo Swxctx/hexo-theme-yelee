@@ -181,9 +181,9 @@ tagcloud: true
 
 # Blogroll, Link exchange | 友情链接
 #friends:
-  Hexo: https://hexo.io
-  GitHub: https://pages.github.com/
-  MOxFIVE: http://moxfive.xyz/
+Hexo: https://hexo.io
+GitHub: https://pages.github.com/
+MOxFIVE: http://moxfive.xyz/
 #friends: false
 
 #是否开启“关于我”。
